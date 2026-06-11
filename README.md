@@ -3,9 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=musabansari-1&label=Profile%20views&color=0e75b6&style=flat" alt="musabansari-1" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=musabansari-1" alt="musabansari-1" /></a> </p>
-
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <!-- High demand frameworks/libraries -->
