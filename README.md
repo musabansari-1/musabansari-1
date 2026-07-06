@@ -16,7 +16,7 @@ I'm a full-stack developer focused on building real-world products from idea to 
 
 I work across frontend, backend, databases, cloud deployment, and AI integrations. My current focus is on building SaaS products, AI-powered workflows, and scalable web applications.
 
-- 🔭 Currently building **Content OS**, an AI-powered content repurposing platform  
+- 🔭 Currently building **Content Burst**, an AI-powered content repurposing platform  
 - 🧠 Interested in **AI products, SaaS, LLM integrations, RAG, and automation**
 - 💻 I enjoy working with **Next.js, React, FastAPI, Node.js, PostgreSQL, Docker, and AWS**
 - 🌱 Currently improving my skills in **system design, cloud infrastructure, and product growth**
@@ -55,7 +55,7 @@ I work across frontend, backend, databases, cloud deployment, and AI integration
 
 ## 📌 Featured Projects
 
-### Content OS  
+### Content Burst  
 AI-powered content repurposing platform that transforms long-form content into platform-native assets for LinkedIn, X, Reddit, newsletters, blogs, and more.
 
 **Tech:** Next.js, FastAPI, PostgreSQL, FFmpeg, LLM APIs, Docker
