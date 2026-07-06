@@ -76,13 +76,6 @@ Production web platform with quiz funnel, authentication, payments, video access
 
 ---
 
-### PulseNote AI  
-Healthcare-focused AI notes generation platform for converting doctor-patient conversations into structured clinical notes.
-
-**Tech:** Next.js, FastAPI, Python, OpenAI, LangChain
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
