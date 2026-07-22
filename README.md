@@ -10,7 +10,7 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 I'm a full-stack developer focused on building real-world products from idea to production.
 
