@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Musab Zahid Ansari</h1>
 
 <h3 align="center">
-  Full-Stack Developer building production-ready web apps and SaaS products
+  Full-Stack Developer building production-ready web apps and SaaS and AI products
 </h3>
 
 <p align="center">
